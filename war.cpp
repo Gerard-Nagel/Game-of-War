@@ -1,5 +1,6 @@
 /**
  * The Game of War by Gerard Nagel
+ GetRandom class by Jan Pearce
  */
 
 #include <iostream>
